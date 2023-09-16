@@ -1,0 +1,30 @@
+---
+id: 39049051
+name: Kahyoreigetsu
+type: Spell Card
+frameType: spell
+desc: 'Special Summon 1 Level 4 or lower Fairy, Spellcaster, Winged Beast, or Beast-Warrior
+  monster from your hand, and if you do, equip it with this card, then you can return
+  all Dragon monsters on the field to the hand. During the End Phase, if this card
+  is in the GY because it was sent there from the Spell & Trap Zone this turn while
+  face-up: You can add 1 "Polymerization" Spell, "Fusion" Spell, or "Fusion Parasite"
+  from your Deck to your hand. You can only use each effect of "Kahyoreigetsu" once
+  per turn.'
+race: Equip
+card_sets:
+- set_name: Maze of Memories
+  set_code: MAZE-EN025
+  set_rarity: Rare
+  set_rarity_code: "(R)"
+  set_price: '0'
+card_images:
+- id: 39049051
+  image_url: https://images.ygoprodeck.com/images/cards/39049051.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/39049051.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/39049051.jpg
+card_prices:
+- cardmarket_price: '0.08'
+  tcgplayer_price: '0.06'
+  ebay_price: '0.99'
+  amazon_price: '2.01'
+  coolstuffinc_price: '0.25'

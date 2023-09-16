@@ -1,0 +1,29 @@
+---
+id: 65433790
+name: Battle Royal Mode - Joining
+type: Spell Card
+frameType: spell
+desc: "Activate this card by targeting 1 Effect Monster on the field. The first 2
+  times that monster would be destroyed by battle each turn, it is not destroyed.
+  When that monster is destroyed by battle, the player that destroyed it gains 2000
+  LP. If the turn player's opponent takes battle or effect damage: Activate this effect;
+  they can apply the following effect.\r\n● Special Summon 1 Level 4 or lower monster
+  from your hand or Deck, and if you do, you lose 2000 LP."
+race: Continuous
+card_sets:
+- set_name: Maze of Memories
+  set_code: MAZE-EN026
+  set_rarity: Rare
+  set_rarity_code: "(R)"
+  set_price: '0'
+card_images:
+- id: 65433790
+  image_url: https://images.ygoprodeck.com/images/cards/65433790.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/65433790.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/65433790.jpg
+card_prices:
+- cardmarket_price: '0.03'
+  tcgplayer_price: '0.04'
+  ebay_price: '1.25'
+  amazon_price: '1.29'
+  coolstuffinc_price: '0.49'

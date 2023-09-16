@@ -1,0 +1,31 @@
+---
+id: 30761649
+name: Barian Untopia
+type: Spell Card
+frameType: spell
+desc: "(This card is always treated as a \"Barian's\" card.)\r\n\"Number\" monsters
+  you control with a number between \"101\" and \"107\" in their name, as well as
+  \"CXyz\" monsters and \"Number C\" monsters you control, cannot be destroyed by
+  your opponent's card effects, and your opponent cannot target them with card effects.
+  Once per turn, if you Special Summon an Xyz Monster with a \"Rank-Up-Magic\" Spell's
+  effect: You can target that Xyz Monster and 1 monster your opponent controls; attach
+  that opponent's monster to that Xyz Monster as material."
+race: Field
+archetype: Barian's
+card_sets:
+- set_name: Maze of Memories
+  set_code: MAZE-EN022
+  set_rarity: Rare
+  set_rarity_code: "(R)"
+  set_price: '0'
+card_images:
+- id: 30761649
+  image_url: https://images.ygoprodeck.com/images/cards/30761649.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/30761649.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/30761649.jpg
+card_prices:
+- cardmarket_price: '0.06'
+  tcgplayer_price: '0.15'
+  ebay_price: '0.99'
+  amazon_price: '0.00'
+  coolstuffinc_price: '0.25'
